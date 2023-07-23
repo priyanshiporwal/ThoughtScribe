@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: medium;
+}
+
+.nav {
+  color: white;
+  text-decoration: none;
+}
+
+.nav:hover {
+  color: gray;
+}
+.active{
+    color: green
+}
